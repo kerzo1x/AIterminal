@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AIterminal/AIterminal.vcxproj" Id="0e128e91-cda3-486c-9768-28955770afe0" />
+</Solution>
