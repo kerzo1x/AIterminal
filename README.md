@@ -52,4 +52,4 @@ The project is focused on low-level rendering, input handling, and building a fu
 
 ## Status
 
-Early-stage project. Core terminal functionality is implemented, including input, rendering, and command execution. Real-time features and further backend integration are in progress (e.g. WebSockets, auth system, etc.).
+Early-stage project. Core terminal functionality is implemented, including input, rendering, and command execution.
